@@ -1,4 +1,26 @@
-### Hi there 👋
+### :)
+```
+   ._
+  (  \
+ (  __\
+(__/ ..)    hi
+``` ^  ^
+
+```
+```
+               ._
+              (  \
+  I'm Luc    (  __\
+            (__/ , ,
+            /// C  c
+
+```
+
+
+I make various software utilities and development tools.
+Mostly in pure C
+
+
 
 <!--
 **LucAlexander/LucAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
