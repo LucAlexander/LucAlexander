@@ -17,6 +17,6 @@ Mostly in pure C
 
 ```
 
-Check out [`&#1d6b5;`](https://github.com/LucAlexander/Xi) or if you're interested, check out its proof of concept precursor [Locality](https://github.com/LucAlexander/Locality)
+Check out [&#039e;](https://github.com/LucAlexander/Xi) or if you're interested, check out its proof of concept precursor [Locality](https://github.com/LucAlexander/Locality)
 
 
