@@ -20,7 +20,7 @@ my tokenizable neural network framework built to allow neural architecture searc
 
 or [Ξ](https://github.com/LucAlexander/Xi):
 a highly cache efficient generalized software development framework with compilation targets suitable for Linux, Windows and even Web Assembly.
-    * [Locality](https://github.com/LucAlexander/Locality) is its direct predecessor, with a different internal architecture.
-    * [xui](https://github.com/LucAlexander/xui) is a minimal gui library built on top of Ξ.
+* [Locality](https://github.com/LucAlexander/Locality) is its direct predecessor, with a different internal architecture.
+* [xui](https://github.com/LucAlexander/xui) is a minimal gui library built on top of Ξ.
 
 
