@@ -26,7 +26,7 @@ Recreational and Professional Programmer
 [8Bit VM](https://github.com/LucAlexander/vm_tbd): An unnamed simple 8 bit virtual machine made as a learning exercise.
 
 ## 2023
-[Neuromorph](https://github.com/LucAleander/Neuromorph): My capstone project for university, a neural network framework built to allow neural architecture search systems to easily generate diverse model architectures through token sequence generation of a custom embedded model description language.
+[Neuromorph](https://github.com/LucAlexander/NeuroMorph): My capstone project for university, a neural network framework built to allow neural architecture search systems to easily generate diverse model architectures through token sequence generation of a custom embedded model description language.
 
 [xui](https://github.com/LucAlexander/xui): a minimal gui library built for Ξ.
 
