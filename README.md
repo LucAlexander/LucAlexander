@@ -19,6 +19,8 @@
 
 ## 2025
 
+[Lambda calculus interpreter](https://github.com/LucAlexander/lambda_calc): Parser-less lambda calculus interpreter written in an afternoon as an exercise.
+
 [prototext](https://github.com/LucAlexander/prototext): A prototype forth-like language which mimics natural language, compiles to C.
 
 [Minimal media runtime](https://github.com/LucAlexander/medialayer): A tiny runtime for SDL2 with project support. Demo game available in repo.
