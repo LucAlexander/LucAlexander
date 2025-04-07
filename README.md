@@ -19,7 +19,7 @@
 
 ## 2025
 
-[Lambda calculus interpreter](https://github.com/LucAlexander/lambda_calc): Parser-less lambda calculus interpreter written as an exercise.
+[Lambda calculus interpreter](https://github.com/LucAlexander/lambda_calc): Lambda calculus parser and interpreter written as an exercise.
 
 [prototext](https://github.com/LucAlexander/prototext): A prototype forth-like language which mimics natural language, compiles to C.
 
