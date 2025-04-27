@@ -19,6 +19,8 @@
 
 ## 2025
 
+[EVO](https://github.com/LucAlexander/evo): Rewrite and continuation of my bachelors thesis project (Neuromorph).
+
 [Typed Lambda calculus interpreter](https://github.com/LucAlexander/lambda_calc): Lambda calculus parser, interpreter,and optional type system. Written as an exercise.
 
 [prototext](https://github.com/LucAlexander/prototext): A prototype forth-like language which mimics natural language, compiles to C.
