@@ -1,32 +1,14 @@
 ### :)
 
-```
-
-
-                               
-        ⣿⣿⣿⣿⣿     ⣿⣿⣿⣿⣿        
-        ⣿⣿⣿⣿⣿     ⣿⣿⣿⣿⣿        
-        ⣿⣿⣿⣿⣿     ⣿⣿⣿⣿⣿        
-   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   
-   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   
-   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   
-   ⣿⣿⣿⣿⣿     ⣿⣿⣿⣿⣿     ⣿⣿⣿⣿⣿   
-   ⣿⣿⣿⣿⣿     ⣿⣿⣿⣿⣿     ⣿⣿⣿⣿⣿   Hi, I'm Luc
-   ⣿⣿⣿⣿⣿     ⣿⣿⣿⣿⣿     ⣿⣿⣿⣿⣿   
-   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   
-   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   
-   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   
-        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿        
-        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿        
-        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿        
-                               
-
 
 ```
 
-```
-λ  I've been working in Machine Learning + Production Backend since mid 2023,
-   but I do plenty of programming recreationally.
+ λ  Hi, I'm Luc
+
+ λ  I've been working in Machine Learning + Production Backend since mid 2023
+
+ λ  Although I do most of my programming recreationally
+
 ```
 
 ## 2025
