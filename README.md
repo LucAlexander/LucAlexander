@@ -13,7 +13,7 @@
 
 ## 2025
 
-[Text Editor](https://github.com/LucAlexander/text-editor-exercize): Written in a day as an exercise to refresh my knowledge of haskell.
+[Ink Compiler](https://github.com/LucAlexander/ink)(current project): Second attempt at a larger high level programming language compiler, heavily WIP.
 
 [EVO](https://github.com/LucAlexander/evo): Rewrite and continuation of my bachelors thesis project (Neuromorph).
 
@@ -26,7 +26,7 @@
 ## 2024
 [protosrc](https://github.com/LucAlexander/protosrc): A prototype programmable programming language, compiles to a 64bit interpreted intermediate representation.
 
-[Compiler Project](https://github.com/LucAlexander/compiler_project): An Unnamed high level compiler frontend and (most) of a backend. Needs a code generation pass still.
+[Compiler Project](https://github.com/LucAlexander/compiler_project): An Unnamed first attempt at a high level compiler frontend and (most) of a backend. Needs a code generation pass still.
 
 [8Bit VM](https://github.com/LucAlexander/vm_tbd): An unnamed simple 8 bit virtual machine made as a learning exercise.
 
