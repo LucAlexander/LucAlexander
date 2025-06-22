@@ -13,7 +13,7 @@
 
 ## 2025
 
-[Ink Compiler](https://github.com/LucAlexander/ink)(current project): Second attempt at a larger high level programming language compiler, heavily WIP.
+[Ink Compiler](https://github.com/LucAlexander/ink)(current project): Working high level language compiler. 
 
 [EVO](https://github.com/LucAlexander/evo): Rewrite and continuation of my bachelors thesis project (Neuromorph).
 
