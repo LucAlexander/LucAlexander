@@ -13,7 +13,9 @@
 
 ## 2025
 
-[Ink Compiler](https://github.com/LucAlexander/ink)(current project): Working high level language compiler. 
+[Src](https://github.com/LucAlexander/src)(ongoing): Meta Computation Engine. Doubles as a plugin system for *any* language.
+
+[Ink Compiler](https://github.com/LucAlexander/ink): Working high level language compiler. 
 
 [EVO](https://github.com/LucAlexander/evo): Rewrite and continuation of my bachelors thesis project (Neuromorph).
 
