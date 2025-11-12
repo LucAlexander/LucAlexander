@@ -13,7 +13,9 @@
 
 ## 2025
 
-[Src](https://github.com/LucAlexander/src)(ongoing): Meta Computation Engine. Doubles as a plugin system for *any* language.
+[TBD](https://github.com/LucAlexander/maus)(ongoing): Logical Meta Computation Engine.
+
+[Src](https://github.com/LucAlexander/src)(ongoing): Bytecode Meta Computation Engine.
 
 [Ink Compiler](https://github.com/LucAlexander/ink): Working high level language compiler. 
 
