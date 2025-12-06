@@ -13,9 +13,9 @@
 
 ## 2025
 
-[TBD](https://github.com/LucAlexander/maus)(ongoing): Logical Meta Computation Engine.
+[un](https://github.com/LucAlexander/un)(ongoing): Meta Compiler Substrate.
 
-[Src](https://github.com/LucAlexander/src)(ongoing): Bytecode Meta Computation Engine.
+[Src](https://github.com/LucAlexander/src): Bytecode Meta Computation Engine.
 
 [Ink Compiler](https://github.com/LucAlexander/ink): Working high level language compiler. 
 
