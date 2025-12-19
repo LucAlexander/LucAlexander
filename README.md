@@ -17,6 +17,8 @@
 
 [Src](https://github.com/LucAlexander/src): Bytecode Meta Computation Engine.
 
+[Chess Roguelike](https://github.com/LucAlexander/schach-spiel): Asynchronous Chess Roguelike game made in two weeks.
+
 [Ink Compiler](https://github.com/LucAlexander/ink): Working high level language compiler. 
 
 [EVO](https://github.com/LucAlexander/evo): Rewrite and continuation of my bachelors thesis project (Neuromorph).
