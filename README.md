@@ -3,11 +3,11 @@
 
 ```
 
- λ  Hi, I'm Luc
+ Hi, I'm Luc
 
- λ  I've been working in Machine Learning + Production Backend since mid 2023
+ I've been working in Machine Learning + Production Backend since mid 2023, but recenetly pivoted to freelance/private contract work. 
 
- λ  Although I do most of my programming recreationally
+ Although I do most of my programming and computation research recreationally.
 
 ```
 
