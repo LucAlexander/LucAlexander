@@ -5,11 +5,12 @@
 
  Hi, I'm Luc
 
- I've been working in Machine Learning + Production Backend since mid 2023, but recenetly pivoted to freelance/private contract work. 
-
- Although I do most of my programming and computation research recreationally.
-
 ```
+
+I worked in machine learning and production backend between 2022 and 2025, and now do freelance and private contract work on a variety of projects.
+
+ Although I do most of my programming and research recreationally. 
+
 
 ## 2025
 
