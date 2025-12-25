@@ -13,6 +13,11 @@
 
 ## 2025
 
+### Retrospective
+I full pivoted this year to language design and meta compilation. Register coloring is still broken in `un` but its coming around as a solid iteration in the metacompilation system. Currently the goal is to achieve constraints as a metacompiler library, for use in program synthesis, for the purpose of studying how combinations of constraint invariants break under real world adverarial stress. 
+
+This was a successful pilot year into this research topic and im going to start a "state of the system" like document soon to start proper research notes into the matured form of this subject.
+
 [un](https://github.com/LucAlexander/un)(ongoing): Meta Compiler Substrate.
 
 [Src](https://github.com/LucAlexander/src): Bytecode Meta Computation Engine.
