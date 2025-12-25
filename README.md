@@ -52,3 +52,6 @@ This was a successful pilot year into this research topic and im going to start 
 
 [Locality](https://github.com/LucAlexander/Locality) prototype predecessor to Xi, built with a different architecture.
 
+## Before
+
+I started programming when I was about 9. I didnt commit until I reached highschool, where I made a handful of small games, the better of which ended up on [itch](https://heart-bit.itch.io/) under a name I no longer use. After that I just studied and experimented for a few years. 
