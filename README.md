@@ -19,6 +19,8 @@ I full pivoted this year to language design and meta compilation. Register color
 
 This was a successful pilot year into this research topic and im going to start a "state of the system" like document soon to start proper research notes into the matured form of this subject.
 
+[Field-Notes](https://github.com/LucAlexander/field-notes) Bookshelf website for research notes.
+
 [un](https://github.com/LucAlexander/un)(ongoing): Meta Compiler Substrate.
 
 [Src](https://github.com/LucAlexander/src): Bytecode Meta Computation Engine.
