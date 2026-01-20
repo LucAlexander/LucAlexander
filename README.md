@@ -15,9 +15,9 @@ I worked in machine learning and production backend between 2022 and 2025, and n
 ## 2025
 
 ### Retrospective
-I full pivoted this year to language design and meta compilation. Register coloring is still broken in `un` but its coming around as a solid iteration in the metacompilation system. Currently the goal is to achieve constraints as a metacompiler library, for use in program synthesis, for the purpose of studying how combinations of constraint invariants break under real world adverarial stress. 
+I full pivoted this year to language design and meta compilation. Un is coming around as a solid iteration of the metacompilation system. Currently the goal is to achieve constraints as a metacompiler library, for use in program synthesis, for the purpose of studying how combinations of constraint invariants break under real world adverarial stress. 
 
-This was a successful pilot year into this research topic and im going to start a "state of the system" like document soon to start proper research notes into the matured form of this subject.
+This was a successful pilot year into this research topic and im going to start a "state of the system" like document soon to start proper research notes into the matured form of this subject (Now available at [field-notes](https://lucalexander.github.io/field-notes/), repo below).
 
 [Field-Notes](https://github.com/LucAlexander/field-notes) Bookshelf website for research notes.
 
