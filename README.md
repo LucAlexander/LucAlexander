@@ -11,6 +11,9 @@ I worked in machine learning and production backend between 2022 and 2025, and n
 
  Although I do most of my programming and research recreationally. 
 
+## 2026
+
+[SYSTEM HACK](https://github.com/LucAlexander/see) A minigame about analyzing complex systems and exploiting the logic of generated programs. 
 
 ## 2025
 
