@@ -13,6 +13,8 @@ I worked in machine learning and production backend between 2022 and 2025, and n
 
 ## 2026
 
+[isosoft/BloodBrawl](https://isosoft.itch.io/blood-brawl) A small game about growing an infection and fighting the immune system
+
 [SYSTEM HACK](https://github.com/LucAlexander/see) A minigame about analyzing complex systems and exploiting the logic of generated programs. 
 
 ## 2025
