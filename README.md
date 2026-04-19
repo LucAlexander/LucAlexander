@@ -13,6 +13,8 @@ I worked in machine learning and production backend between 2022 and 2025, and n
 
 ## 2026
 
+[capf](https://github.com/LucAlexander/capability_forth) Capability Enforced Forth Machine
+
 [core](https://github.com/LucAlexander/core) Concatenative term Rewriting language.
 
 [isosoft/BloodBrawl](https://isosoft.itch.io/blood-brawl) A small game about growing an infection and fighting the immune system.
