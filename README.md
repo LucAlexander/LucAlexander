@@ -13,13 +13,13 @@ I worked in machine learning and production backend between 2022 and 2025, and n
 
 ## 2026
 
-[capf](https://github.com/LucAlexander/capability-forth) Capability Enforced Forth Machine
+[iso](https://github.com/LucAlexander/iso)(ongoing): Capability Enforced Forth Machine
 
-[core](https://github.com/LucAlexander/core) Concatenative term Rewriting language.
+[core](https://github.com/LucAlexander/core): Concatenative term Rewriting language.
 
-[isosoft/BloodBrawl](https://isosoft.itch.io/blood-brawl) A small game about growing an infection and fighting the immune system.
+[isosoft/BloodBrawl](https://isosoft.itch.io/blood-brawl): A small game about growing an infection and fighting the immune system.
 
-[SYSTEM HACK](https://github.com/LucAlexander/see) A minigame about analyzing complex systems and exploiting the logic of generated programs. 
+[SYSTEM HACK](https://github.com/LucAlexander/see): A minigame about analyzing complex systems and exploiting the logic of generated programs. 
 
 ## 2025
 
@@ -28,9 +28,9 @@ I full pivoted this year to language design and meta compilation. Un is coming a
 
 This was a successful pilot year into this research topic and im going to start a "state of the system" like document soon to start proper research notes into the matured form of this subject (Now available at [field-notes](https://lucalexander.github.io/field-notes/), repo below).
 
-[Field-Notes](https://github.com/LucAlexander/field-notes) Bookshelf website for research notes.
+[Field-Notes](https://github.com/LucAlexander/field-notes): Bookshelf website for research notes.
 
-[un](https://github.com/LucAlexander/un)(ongoing): Meta Compiler Substrate.
+[un](https://github.com/LucAlexander/un): Meta Compiler Substrate.
 
 [Src](https://github.com/LucAlexander/src): Bytecode Meta Computation Engine.
 
