@@ -13,7 +13,9 @@ I worked in machine learning and production backend between 2022 and 2025, and n
 
 ## 2026
 
-[iso](https://github.com/LucAlexander/iso)(ongoing): Capability Enforced Forth Machine
+[mal](https://github.com/LucAlexander/mal): Compiler written in a day, compiles to iso.
+
+[iso](https://github.com/LucAlexander/iso)(ongoing): Capability Enforced Forth Machine emulator.
 
 [core](https://github.com/LucAlexander/core): Concatenative term Rewriting language.
 
